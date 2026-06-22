@@ -1,0 +1,13 @@
+
+body{
+    background-color: lightcyan;
+    font-family: Verdana;
+}
+#myButton{
+    font-size: 2em;
+    background-color: hotpink;
+    cursor: progress;
+}
+#myLabel1, #myLabel2, #myLabel3 {
+    font-size: 3em;
+}
